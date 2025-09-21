@@ -97,9 +97,9 @@ LINKED ROBLOX ACCOUNT
 ## File Structure
 ```
 discord-roblox-checker/
-├── main.py                         # Main application
+├── main.py                      # Main application
 ├── requirements.txt             # Python dependencies
-└── README.md                   # This file
+└── README.md                    # This file
 ```
 
 ## Requirements File (requirements.txt)
@@ -135,4 +135,5 @@ This project is open source and available under the MIT License.
 Feel free to submit issues, feature requests, or pull requests to improve this tool.
 
 ## Disclaimer
+
 This tool is not affiliated with Discord Inc., Roblox Corporation, or Blox.link. All trademarks belong to their respective owners.
