@@ -43,7 +43,6 @@ class DiscordRobloxChecker:
         
         discord_id = discord_id.strip()
         
-        # Discord IDs are typically 17-19 digits
         if not discord_id.isdigit():
             return False, "Discord ID must contain only numbers"
         
@@ -93,8 +92,6 @@ class DiscordRobloxChecker:
 
     def get_discord_username(self, discord_id):
         """Get Discord username from ID (limited without bot token)"""
-        # Note: Getting Discord username requires bot token or user token
-        # This is a placeholder that returns the ID formatted
         return f"User#{discord_id[-4:]}"
 
     def display_results(self, discord_id, data):
@@ -229,4 +226,5 @@ def main():
         checker.run_interactive()
 
 if __name__ == "__main__":
+
     main()
