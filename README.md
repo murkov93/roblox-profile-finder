@@ -1,4 +1,4 @@
-# Discord ⟷ Roblox Account Checker
+# Discord to Roblox Account Checker
 A minimalist console application to find linked accounts between Discord and Roblox platforms using the Blox.link API service.
 
 ## Features
@@ -137,3 +137,4 @@ Feel free to submit issues, feature requests, or pull requests to improve this t
 ## Disclaimer
 
 This tool is not affiliated with Discord Inc., Roblox Corporation, or Blox.link. All trademarks belong to their respective owners.
+
